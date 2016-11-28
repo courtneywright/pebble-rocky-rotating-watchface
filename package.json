@@ -1,0 +1,24 @@
+{
+    "author": "Courtney Wright",
+    "dependencies": {},
+    "keywords": [],
+    "name": "rocky-rotating",
+    "pebble": {
+        "displayName": "rocky rotating",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "76d2b3df-7cdb-41a0-a277-4723da8877f7",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
